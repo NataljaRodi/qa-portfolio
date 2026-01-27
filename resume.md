@@ -8,9 +8,7 @@ https://www.linkedin.com/in/nathalierodi/
 <br>
 Helsinki, Finland
 ## Professional Summary
-Junior QA Engineer with hands-on experience in manual testing of web applications.
-Experienced in test case creation, defect reporting, and API testing using Postman in Agile/Scrum environments.
-Currently learning test automation and exploring AI tools to support testing activities.
+Junior QA Engineer with practical experience in manual testing of web and mobile applications. Worked with functional, regression and exploratory testing, test case design, and defect reporting. Has experience validating API responses using Postman and checking data consistency based on requirements. Basic knowledge of Python and strong interest in test automation.
 ## Skills & Tools
 ### Testing
 
@@ -35,5 +33,5 @@ Currently learning test automation and exploring AI tools to support testing act
 
 ### Learning & Interests
 
-- Test automation 
+- Test automation (Robot Framework)
 - AI tools for test design and idea generation
