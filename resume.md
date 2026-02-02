@@ -36,13 +36,28 @@ Junior QA Engineer with practical experience in manual testing of web and mobile
 - DBeaver
 - GitHub/Git
 - DevTools
+- Figma
 ### Technical Knowledge
 - Basic SQL
 - Basic Python
 - Understanding of Agile / Scrum processes
 ### Learning & Interests
 - Test automation (Robot Framework)
-- AI tools for test design and idea generation
 ## Education
 ### Bachelor of Law 
 Utena university of applied sciences, Lithuania (2016-2020)
+### Border Guard Qualification
+Border Guard School, Lithiania (2013-2015)
+### Computing Equiptment Assembler
+Technology and Business Vocational Educationand Training Centre, Lithuania (2010-2013)
+## Courses / Certifications
+### Software Testing
+QA Learning Course (2024-2025)
+- Fundamentals of Software Testing, API Testing, SQL, Git
+### Software Automation using UIPath Framework (ongoing)
+Metropolia University of Applied Sciences, 2025
+## Languages
+- English (B2)
+- Finnish (B1)
+- Lithuanian (Fluent)
+- Russian (Fluent)
