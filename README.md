@@ -10,6 +10,11 @@ I am continuously improving my skills and gradually expanding this portfolio as 
 - [Resume](#resume)
 - [Skills & Tools](#skills--tools)
 - [Courses](#courses)
+- - [Examples of My Work](#examples-of-my-work)
+  - [Test Cases](#test-cases)
+  - [Bug Reports](#bug-reports)
+  - [API Testing](#api-testing)
+  - [uTest / Freelance](#utest--freelance)
 
 ## About me
 I am a Junior QA Engineer and a career changer, currently building my career in software testing. I came to QA after working in a different field and found that testing suits me because it combines analytical thinking, structure, and practical problem-solving.
