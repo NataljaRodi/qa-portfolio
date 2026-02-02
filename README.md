@@ -8,8 +8,7 @@ I am continuously improving my skills and gradually expanding this portfolio as 
 ## 📌 Table of Contents
 - [About Me](#about-me)
 - [Resume](#resume)
-- [Skills](#skills)
-- [Tools](#tools)
+- [Skills & Tools](#skills--tools)
 - [Courses](#courses)
 
 ## About me
@@ -28,3 +27,14 @@ I am also starting to learn test automation and have an interest in AI-related t
 
 🔗 **LinkedIn**  
 👉 [linkedin.com/in/nathalierodi](https://www.linkedin.com/in/nathalierodi/)
+
+## Skills & Tools
+
+- Manual testing of web and mobile applications
+- Test cases, checklists, bug reporting
+- API testing (Postman)
+- Basic SQL
+- Tools: Jira, GitHub, DevTools, DBeaver
+
+(Full details are available in the CV.)
+
