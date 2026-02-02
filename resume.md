@@ -1,5 +1,5 @@
 # Natalja Rodionova
-### Junior QA Engineer (Manual | Web & Mobile)
+### Junior QA Engineer (Manual | Web & Mobile Testing)
 +358417517830
 <br>
 nathalierodi94@gmail.com 
