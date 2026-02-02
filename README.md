@@ -17,4 +17,14 @@ I am a Junior QA Engineer and a career changer, currently building my career in 
 I have completed QA courses and an internship, where I worked with manual testing of web and mobile applications. In my practice, I create test cases and checklists, write bug reports, perform basic API testing, and use basic SQL queries to work with test data.
 I also have experience with freelance and crowdtesting tasks, where I tested real products, followed test scenarios, and reported issues according to given requirements.
 At the moment, my main focus is on manual testing and gaining hands-on experience.
-I am also starting to learn test automation and have an interest in AI-related topics 
+I am also starting to learn test automation and have an interest in AI-related topics.
+
+ ## Resume
+ 📄 **CV (Markdown)**  
+👉 [View my CV on GitHub](./resume.md)
+
+📥 **CV (PDF)**  
+👉 [Download CV (PDF)](https://drive.google.com/file/d/1J8vDsq0lHv0kD5YhiXRgmGazVoplpxcM/view?usp=sharing)
+
+🔗 **LinkedIn**  
+👉 [linkedin.com/in/nathalierodi](https://www.linkedin.com/in/nathalierodi/)
