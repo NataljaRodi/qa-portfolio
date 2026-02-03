@@ -10,7 +10,7 @@ I am continuously improving my skills and gradually expanding this portfolio as 
 - [Resume](#resume)
 - [Skills & Tools](#skills--tools)
 - [Courses](#courses)
-  [Examples of My Work](#examples-of-my-work)
+- [Examples of My Work](#examples-of-my-work)
   - [Test Cases](#test-cases)
   - [Bug Reports](#bug-reports)
   - [API Testing](#api-testing)
