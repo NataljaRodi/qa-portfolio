@@ -47,3 +47,5 @@ I am also starting to learn test automation and have an interest in AI-related t
 Completed a Software Testing course and a Git/GitHub fundamentals course.
 Currently learning test automation with Robot Framework.
 Automation examples will be added to this portfolio gradually as my learning progresses.
+
+## Examples of my work
