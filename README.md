@@ -50,7 +50,7 @@ Currently learning test automation with Robot Framework.
 Automation examples will be added to this portfolio gradually as my learning progresses.
 
 ## Examples of my work
-# Requirements analysis
+### Requirements analysis
 **Requirements Analysis – Registration & Authorization**  
   QA requirements analysis focused on identifying ambiguity, incompleteness, and inconsistencies in user stories.  
   👉 [View project](requirements-analysis/)
