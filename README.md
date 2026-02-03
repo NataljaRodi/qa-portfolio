@@ -11,6 +11,7 @@ I am continuously improving my skills and gradually expanding this portfolio as 
 - [Skills & Tools](#skills--tools)
 - [Courses](#courses)
 - [Examples of My Work](#examples-of-my-work)
+  - [Requirements analysis](#requirements-analysis)
   - [Test Cases](#test-cases)
   - [Bug Reports](#bug-reports)
   - [API Testing](#api-testing)
@@ -49,3 +50,8 @@ Currently learning test automation with Robot Framework.
 Automation examples will be added to this portfolio gradually as my learning progresses.
 
 ## Examples of my work
+# Requirements analysis
+**Requirements Analysis – Registration & Authorization**  
+  QA requirements analysis focused on identifying ambiguity, incompleteness, and inconsistencies in user stories.  
+  👉 [View project](requirements-analysis/)
+
