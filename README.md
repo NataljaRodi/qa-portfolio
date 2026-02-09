@@ -59,5 +59,5 @@ Automation examples will be added to this portfolio gradually as my learning pro
 This section contains examples of testing checklists created during my QA training and practice.
 They demonstrate my approach to validation coverage, UI checks, and functional test planning.
 
-- 👉 [Form Validation Checklist](Examples-of-My-Work/Checklists/form_validation_checklist.md)
-- 👉 [Mobile Application Checklist](Examples-of-My-Work/Checklists/mobile_app_checklist.md)
+- [Form Validation Checklist](Examples-of-My-Work/Checklists/form_validation_checklist.md)
+- [Mobile Application Checklist](Examples-of-My-Work/Checklists/mobile_app_checklist.md)
