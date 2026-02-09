@@ -54,10 +54,19 @@ Automation examples will be added to this portfolio gradually as my learning pro
 ### Requirements analysis
 **Requirements Analysis – Registration & Authorization**  
   QA requirements analysis focused on identifying ambiguity, incompleteness, and inconsistencies in user stories.  
+  
   👉 [View project](requirements-analysis/)
 ### Checklists
 This section contains examples of testing checklists created during my QA training and practice.
 They demonstrate my approach to validation coverage, UI checks, and functional test planning.
 
-- [Form Validation Checklist](Examples-of-My-Work/Checklists/form_validation_checklist.md)
-- [Mobile Application Checklist](Examples-of-My-Work/Checklists/mobile_app_checklist.md)
+👉 [Form Validation Checklist](Examples-of-My-Work/Checklists/form_validation_checklist.md)  
+👉 [Mobile Application Checklist](Examples-of-My-Work/Checklists/mobile_app_checklist.md)
+
+### Test Cases
+
+This section contains selected test cases created during my QA training and practice.
+They demonstrate my ability to design structured test scenarios, define preconditions,
+execute validation steps, and verify expected results.
+
+  👉 [Form Test Cases](Examples-of-My-Work/Test-Cases/form_test_cases.md)
