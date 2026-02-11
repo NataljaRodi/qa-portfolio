@@ -70,3 +70,12 @@ They demonstrate my ability to design structured test scenarios, define precondi
 execute validation steps, and verify expected results.
 
   👉 [Form Test Cases](Examples-of-My-Work/Test-Cases/form_test_cases.md)
+
+### Bug reports
+
+This section contains examples of bug reports created during my QA learning and practice.
+The reports demonstrate my ability to clearly describe issues,
+provide reproducible steps, and communicate expected vs actual behavior.
+
+ 👉 
+
