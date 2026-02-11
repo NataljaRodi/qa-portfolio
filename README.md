@@ -69,7 +69,9 @@ This section contains selected test cases created during my QA training and prac
 They demonstrate my ability to design structured test scenarios, define preconditions,
 execute validation steps, and verify expected results.
 
-  👉 [Form Test Cases](Examples-of-My-Work/Test-Cases/form_test_cases.md)
+  👉 [Form Test Cases](Examples-of-My-Work/Test-Cases/form_test_cases.md)  
+  👉 [Multi-step Form Test Cases](Examples-of-My-Work/Test-Cases/multi_step_form_test_cases.md)
+
 
 ### Bug reports
 
