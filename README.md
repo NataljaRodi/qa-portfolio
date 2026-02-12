@@ -14,10 +14,11 @@ I am continuously improving my skills and gradually expanding this portfolio as 
   - [Requirements analysis](#requirements-analysis)
   - [Checklists](#checklists)
   - [Test Cases](#test-cases)
-  - [Bug Reports](#bug-reports)
-  - [API Testing](#api-testing)
-  - [uTest / Freelance](#utest--freelance)
-
+  - [Bug Reports](#bug-reports) (in progress)
+  - [API Testing](#api-testing) (in progress)
+  - [uTest / Freelance](#utest--freelance) (in progress)
+  - [JavaScript Automation](#javascript--automation) (planned)
+    
 ## About me
 I am a Junior QA Engineer and a career changer, currently building my career in software testing. I came to QA after working in a different field and found that testing suits me because it combines analytical thinking, structure, and practical problem-solving.
 I have completed QA courses and an internship, where I worked with manual testing of web and mobile applications. In my practice, I create test cases and checklists, write bug reports, perform basic API testing, and use basic SQL queries to work with test data.
