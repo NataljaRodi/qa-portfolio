@@ -80,5 +80,5 @@ This section contains examples of bug reports created during my QA learning and 
 The reports demonstrate my ability to clearly describe issues,
 provide reproducible steps, and communicate expected vs actual behavior.
 
- 👉 
+ 🐞 [Mixed Language Labels on Primary Buttons](Examples-of-My-Work/Bug-Reports/button-language-inconsistency.md)
 
