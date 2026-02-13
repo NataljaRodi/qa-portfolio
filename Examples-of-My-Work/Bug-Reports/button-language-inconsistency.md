@@ -51,5 +51,7 @@ Primary action buttons appear in English:
 ---
 
 ### 🖼 Attachments
-![Step1](attachments/bug1_step1.png)
-![Final](attachments/bug1_final.png)
+
+<img src="attachments/bug01_next.png" width="500">
+<img src="attachments/bug01_laststep.png" width="500">
+<img src="attachments/bug01_gettheresult.png" width="500">
