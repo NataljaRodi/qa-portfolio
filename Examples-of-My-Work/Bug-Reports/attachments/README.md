@@ -1,0 +1,1 @@
+Attachments for bug reports
