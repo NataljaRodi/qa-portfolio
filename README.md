@@ -83,3 +83,10 @@ provide reproducible steps, and communicate expected vs actual behavior.
 
  🐞 [Mixed Language Labels on Buttons](Examples-of-My-Work/Bug-Reports/button-language-inconsistency.md)
 
+### SQL
+
+This section contains SQL queries created during my QA training to practice retrieving, filtering, and validating data in relational databases.
+
+📊 [ClassicModels – Basic SQL Queries](SQL/ClassicModels/README.md)
+
+
