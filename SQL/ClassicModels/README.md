@@ -1,43 +1,24 @@
 # ClassicModels SQL Practice
 
-## Overview
+This project contains basic SQL queries created using the ClassicModels sample database as part of my QA Engineer training.
 
-This project contains SQL queries written using the ClassicModels sample database as part of my QA Engineer training.
+It demonstrates my ability to retrieve, filter, sort, and validate data directly in a relational database.
 
-The goal of this practice was to develop the ability to retrieve, filter, and validate data directly from a relational database — a key skill in QA and database testing.
+## Contents
 
----
+* 📄 [Basic SQL Queries](basic_queries.sql)
+* 🗺️ [EER Diagram](classicmodels_eer.png)
 
-## What I practiced
+## Skills demonstrated
 
-* Retrieving data using `SELECT`
-* Filtering results using `WHERE`
-* Sorting data using `ORDER BY`
-* Counting records using `COUNT`
-* Finding specific records based on conditions
+* SELECT
+* WHERE
+* ORDER BY
+* COUNT
+* LIMIT
+* Basic data validation
 
----
+## Status
 
-## Database
+Basic SQL completed. Currently learning JOIN and advanced SQL queries.
 
-**ClassicModels** is a sample business database that includes realistic company data such as:
-
-* customers
-* employees
-* products
-* payments
-
-This database is commonly used for learning SQL and practicing database queries.
-
----
-
-## Project files
-
-* `basic_queries.sql` – contains SQL queries created during practice
-
----
-
-## Progress
-
-Basic SQL queries completed.
-Currently expanding skills with **JOIN queries** and more advanced SQL concepts.
