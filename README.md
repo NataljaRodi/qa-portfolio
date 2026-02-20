@@ -16,7 +16,7 @@ I am continuously improving my skills and gradually expanding this portfolio as 
   - [Test Cases](#test-cases)
   - [Bug Reports](#bug-reports) (in progress)
   - [API Testing](#api-testing) (in progress)
-  - [SQL](#sql) (in progress)
+  - [SQL](#sql)
   - [uTest / Freelance](#utest--freelance) (in progress)
   - [JavaScript Automation](#javascript--automation) (planned)
     
