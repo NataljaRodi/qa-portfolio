@@ -6,9 +6,9 @@ It demonstrates my ability to retrieve, filter, sort, and validate data directly
 
 ## Contents
 
-- 📄 Basic SQL Queries
-- 📄 Database Structure
-- 🗺️ EER Diagram
+- 📄 [Basic SQL Queries](basic_queries.sql)
+- 📄 [Database Structure](database_structure.sql) 
+- 🗺️ [EER Diagram](classicmodels_eer.png) 
 
 ## Skills demonstrated
 
