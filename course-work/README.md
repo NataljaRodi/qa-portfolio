@@ -9,3 +9,28 @@ These examples reflect my learning progress and basic understanding of QA fundam
   QA requirements analysis focused on identifying ambiguity, incompleteness, and inconsistencies in user stories.  
   
   👉 [View project](requirements-analysis/)
+
+### Checklists
+This section contains examples of testing checklists created during my QA training and practice.
+They demonstrate my approach to validation coverage, UI checks, and functional test planning.
+
+👉 [Form Validation Checklist](course-work/Checklists/form_validation_checklist.md)  
+👉 [Mobile Application Checklist](course-work/Checklists/mobile_app_checklist.md)
+
+### Test Cases
+
+This section contains selected test cases created during my QA training and practice.
+They demonstrate my ability to design structured test scenarios, define preconditions,
+execute validation steps, and verify expected results.
+
+  👉 [Form Test Cases](Examples-of-My-Work/Test-Cases/form_test_cases.md)  
+  👉 [Multi-step Form Test Cases](Examples-of-My-Work/Test-Cases/multi_step_form_test_cases.md)
+
+
+### Bug reports
+
+This section contains examples of bug reports created during my QA learning and practice.
+The reports demonstrate my ability to clearly describe issues,
+provide reproducible steps, and communicate expected vs actual behavior.
+
+ 🐞 [Mixed Language Labels on Buttons](Examples-of-My-Work/Bug-Reports/button-language-inconsistency.md)
