@@ -15,7 +15,7 @@ I am continuously improving my skills and gradually expanding this portfolio as 
   - [Automation Testing (Playwright)](#Playwright) (in progress)
   - [SQL Practice](#sql)
   - [Crowdtesting Experience (uTest)](#utest--freelance) (in progress)
-- [Course work](#course-work) (archive)
+- [Course Work](#course-work) (archive)
     
 ## About me
 I am a Junior QA Engineer and a career changer, currently building my career in software testing. I came to QA after working in a different field and found that testing suits me because it combines analytical thinking, structure, and practical problem-solving.
