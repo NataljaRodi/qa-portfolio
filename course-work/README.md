@@ -13,8 +13,8 @@ These examples reflect my learning progress and basic understanding of QA fundam
 This section contains examples of testing checklists created during my QA training and practice.
 They demonstrate my approach to validation coverage, UI checks, and functional test planning.
 
-👉 [Form Validation Checklist](course-work/Checklists/form_validation_checklist.md)  
-👉 [Mobile Application Checklist](course-work/Checklists/mobile_app_checklist.md)
+👉 [Form Validation Checklist](course-work/checklists/form_validation_checklist.md)  
+👉 [Mobile Application Checklist](course-work/checklists/mobile_app_checklist.md)
 
 ### Test Cases
 
