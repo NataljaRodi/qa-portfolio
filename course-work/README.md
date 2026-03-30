@@ -22,8 +22,8 @@ This section contains selected test cases created during my QA training and prac
 They demonstrate my ability to design structured test scenarios, define preconditions,
 execute validation steps, and verify expected results.
 
-  👉 [Form Test Cases](Examples-of-My-Work/Test-Cases/form_test_cases.md)  
-  👉 [Multi-step Form Test Cases](Examples-of-My-Work/Test-Cases/multi_step_form_test_cases.md)
+  👉 [Form Test Cases](course-work/Test-Cases/form_test_cases.md)  
+  👉 [Multi-step Form Test Cases](course-work/Test-Cases/multi_step_form_test_cases.md)
 
 
 ### Bug reports
@@ -32,4 +32,4 @@ This section contains examples of bug reports created during my QA learning and 
 The reports demonstrate my ability to clearly describe issues,
 provide reproducible steps, and communicate expected vs actual behavior.
 
- 🐞 [Mixed Language Labels on Buttons](Examples-of-My-Work/Bug-Reports/button-language-inconsistency.md)
+ 🐞 [Mixed Language Labels on Buttons](course-work/Bug-Reports/button-language-inconsistency.md)
