@@ -10,7 +10,7 @@ I am continuously improving my skills and gradually expanding this portfolio as 
 - [Resume](#resume)
 - [Skills & Tools](#skills--tools)
 - [Courses](#courses)
-- [Projects](#projects)
+- [Examples Of My Work](#projects)
   - [Abra Market QA Project](#arba-market)
   - [Automation Testing (Playwright)](#Playwright) (in progress)
   - [SQL Practice](#sql)
@@ -45,11 +45,23 @@ I am also starting to learn test automation and have an interest in AI-related t
 (Full details are available in the CV.)
 
 ## Courses
-Completed a Software Testing course and a Git/GitHub fundamentals course.
-Currently learning test automation with Robot Framework.
-Automation examples will be added to this portfolio gradually as my learning progresses.
 
+Completed a Software Testing course and a Git/GitHub Fundamentals course.
 
+Currently learning **JavaScript for test automation** at RedRover School.  
+Planned next step: building automated tests using **Playwright**.
+
+### Abra Market QA Project *(Main project)*
+
+QA internship project for a B2B marketplace platform.
+
+- Manual testing (UI)
+- API testing (Postman, Swagger)
+- Test documentation (checklists, test cases)
+- Bug reporting
+- Basic database validation
+
+👉 [View project](ссылка-на-репозиторий)
 
 
 ### SQL
