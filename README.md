@@ -1,6 +1,6 @@
 # QA Engineer portfolio
 Welcome to my GitHub repository, created to showcase my skills and experience as a Junior QA Engineer.
-This repository contains examples of my work from QA courses, internship, and self-practice, including test cases, bug reports, API testing, and basic SQL.
+This repository contains examples of my work from QA courses, internship, and self-practice, including test cases, bug reports, API testing, and basic SQL  and my initial steps in test automation.
 It reflects my approach to manual testing, attention to detail, and understanding of QA fundamentals.
 
 I am continuously improving my skills and gradually expanding this portfolio as I learn new tools and techniques.
@@ -11,7 +11,7 @@ I am continuously improving my skills and gradually expanding this portfolio as 
 - [Skills & Tools](#skills--tools)
 - [Courses](#courses)
 - [Examples Of My Work](#projects)
-  - [Abra Market QA Project](#arba-market)
+  - [Abra Market QA Project](#abra-market-qa-project-main-project)
   - [Automation Testing (Playwright)](#Playwright) (in progress)
   - [SQL Practice](#sql)
   - [Crowdtesting Experience (uTest)](#utest--freelance) (in progress)
@@ -61,7 +61,7 @@ QA internship project for a B2B marketplace platform.
 - Bug reporting
 - Basic database validation
 
-👉 [View project](ссылка-на-репозиторий)
+👉 [View project](https://github.com/NataljaRodi/abra-market-qa-project)
 
 
 ### SQL
