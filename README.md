@@ -12,7 +12,7 @@ I am continuously improving my skills and gradually expanding this portfolio as 
 - [Courses](#courses)
 - [Examples Of My Work](#projects)
   - [Abra Market QA Project](#abra-market-qa-project-main-project)
-  - [Automation Testing (Playwright)](#Playwright) (in progress)
+  - [Automation Testing (Playwright)](#automation-testing-(playwright)) (in progress)
   - [SQL Practice](#sql)
   - [Crowdtesting Experience (uTest)](#utest--freelance) (in progress)
 - [Course Work](#course-work) (archive)
@@ -63,6 +63,15 @@ QA internship project for a B2B marketplace platform.
 
 👉 [View project](https://github.com/NataljaRodi/abra-market-qa-project)
 
+### Automation Testing (Playwright) *(in progress)*
+
+Automated UI testing project using Playwright and TypeScript based on real user stories.
+
+- UI test automation (Playwright)
+- Test case creation and automation
+- GitHub workflow (PR, review)
+
+👉 [View project details]()
 
 ### SQL
 
