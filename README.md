@@ -11,7 +11,7 @@ I am continuously improving my skills and gradually expanding this portfolio as 
 - [Skills & Tools](#skills--tools)
 - [Courses](#courses)
 - [Examples Of My Work](#projects)
-  - [Abra Market QA Project](#abra-market-qa-project-main-project)
+  - [Abra Market QA Project](#abra-market-qa-project)
   - [Automation Testing (Playwright)](#automation-testing-playwright) (in progress)
   - [SQL Practice](#sql)
   - [Crowdtesting Experience (uTest)](#utest--freelance) (in progress)
@@ -51,7 +51,7 @@ Completed a Software Testing course and a Git/GitHub Fundamentals course.
 Currently learning **JavaScript for test automation** at RedRover School.  
 Planned next step: building automated tests using **Playwright**.
 
-### Abra Market QA Project *(Main project)*
+### Abra Market QA Project
 
 QA internship project for a B2B marketplace platform.
 
