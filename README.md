@@ -63,7 +63,8 @@ QA internship project for a B2B marketplace platform.
 
 👉 [View project](https://github.com/NataljaRodi/abra-market-qa-project)
 
-### Automation Testing (Playwright) *(in progress)*
+### Automation Testing (Playwright) 
+*(in progress)*
 
 Automated UI testing project using Playwright and TypeScript based on real user stories.
 
