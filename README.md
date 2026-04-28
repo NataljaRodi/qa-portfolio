@@ -72,7 +72,7 @@ Automated UI testing project using Playwright and TypeScript based on real user 
 - Test case creation and automation
 - GitHub workflow (PR, review)
 
-👉 [View project details]()
+👉 [View project details](automation-testing/README.md)
 
 ### SQL
 
