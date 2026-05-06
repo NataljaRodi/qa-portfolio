@@ -69,7 +69,7 @@ Status: In progress
 
 This is a team training QA automation project focused on testing Jenkins UI with Playwright and TypeScript.
 
-My contribution includes creating test cases from user stories, writing automated UI tests, working with test data, using `beforeEach`, creating Pull Requests, and participating in code review.
+My contribution includes creating test cases from user stories, writing automated UI tests, working with test data, creating Pull Requests, and participating in code review.
 
 **Tech stack:** Playwright, TypeScript, Jenkins, Git, GitHub
 
