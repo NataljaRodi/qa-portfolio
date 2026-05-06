@@ -30,7 +30,7 @@ At the moment, my main focus is manual QA, API testing, and improving my automat
 👉 [View my CV on GitHub](./resume.md)
 
 📥 **CV (PDF)**  
-👉 [Download CV (PDF)](https://drive.google.com/file/d/1J8vDsq0lHv0kD5YhiXRgmGazVoplpxcM/view?usp=sharing)
+👉 [Download CV (PDF)](https://drive.google.com/file/d/1sUbtWsUsvg-GOivf9cQXOhmcnXTZwPzr/view?usp=sharing)
 
 🔗 **LinkedIn**  
 👉 [linkedin.com/in/nathalierodi](https://www.linkedin.com/in/nathalierodi/)
