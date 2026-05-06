@@ -65,7 +65,7 @@ This is a team training repository, so I only share links to my own Pull Request
 - Verifying Source Code Management options
 - Checking available SCM types: `None` and `Git`
 
-- ## Example QA Workflow
+## Example QA Workflow
 
 The project follows this workflow:
 
