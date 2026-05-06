@@ -12,7 +12,7 @@ I am continuously improving my skills and gradually expanding this portfolio as 
 - [Courses](#courses)
 - [Examples Of My Work](#projects)
   - [Abra Market QA Project](#abra-market-qa-project)
-  - [Automation Testing (Playwright)](#automation-testing-playwright) (in progress)
+  - [Team QA Automation Project — Jenkins UI with Playwright](#team-qa-automation-project--jenkins-ui-with-playwright) (in progress)
   - [SQL Practice](#sql)
   - [Crowdtesting Experience (uTest)](#utest--freelance) (in progress)
 - [Course Work](#course-work) (archive)
@@ -63,16 +63,25 @@ QA internship project for a B2B marketplace platform.
 
 👉 [View project](https://github.com/NataljaRodi/abra-market-qa-project)
 
-### Automation Testing (Playwright) 
-*(in progress)*
+## Team QA Automation Project — Jenkins UI with Playwright
 
-Automated UI testing project using Playwright and TypeScript based on real user stories.
+Status: In progress
 
-- UI test automation (Playwright)
-- Test case creation and automation
-- GitHub workflow (PR, review)
+This is a team training QA automation project focused on testing Jenkins UI with Playwright and TypeScript.
 
-👉 [View project details](automation-testing/README.md)
+My contribution includes creating test cases from user stories, writing automated UI tests, working with test data, using `beforeEach`, creating Pull Requests, and participating in code review.
+
+**Tech stack:** Playwright, TypeScript, Jenkins, Git, GitHub
+
+**My focus:**
+- UI test automation
+- Test case creation
+- Test data management
+- Playwright locators and assertions
+- GitHub workflow: branches, Pull Requests, code review
+
+👉 [View project details](automation-testing/README.md)  
+
 
 ### SQL
 
