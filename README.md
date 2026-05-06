@@ -1,8 +1,8 @@
 # QA Engineer portfolio
-Welcome to my GitHub repository, created to showcase my skills and experience as a Junior QA Engineer.
-This repository contains examples of my work from QA courses, internship, and self-practice, including test cases, bug reports, API testing, and basic SQL  and my initial steps in test automation.
-It reflects my approach to manual testing, attention to detail, and understanding of QA fundamentals.
+Welcome to my GitHub portfolio.
 
+I am a Junior QA Engineer based in Helsinki, Finland. My main focus is manual testing of web and mobile applications, API testing with Postman, test documentation, bug reporting, and basic SQL. I am also actively developing my test automation skills with Playwright and TypeScript.
+This portfolio includes examples from QA courses, internship practice, self-study, crowdtesting tasks, and a team automation training project.
 I am continuously improving my skills and gradually expanding this portfolio as I learn new tools and techniques.
 
 ## 📌 Table of Contents
@@ -18,11 +18,12 @@ I am continuously improving my skills and gradually expanding this portfolio as 
 - [Course Work](#course-work) (archive)
     
 ## About me
-I am a Junior QA Engineer and a career changer, currently building my career in software testing. I came to QA after working in a different field and found that testing suits me because it combines analytical thinking, structure, and practical problem-solving.
-I have completed QA courses and an internship, where I worked with manual testing of web and mobile applications. In my practice, I create test cases and checklists, write bug reports, perform basic API testing, and use basic SQL queries to work with test data.
+I am a Junior QA Engineer and a career changer, currently building my career in software testing.
+I came to QA after working in a different field and found that testing suits me because it combines analytical thinking, structure, attention to detail, and practical problem-solving.
+I have completed QA courses and an internship, where I worked with manual testing of web and mobile applications, API testing, test documentation, bug reporting, and basic data validation.
 I also have experience with freelance and crowdtesting tasks, where I tested real products, followed test scenarios, and reported issues according to given requirements.
-At the moment, my main focus is on manual testing and gaining hands-on experience.
-I am also starting to learn test automation and have an interest in AI-related topics.
+At the moment, my main focus is manual QA, API testing, and improving my automation skills with Playwright and TypeScript.
+
 
  ## Resume
  📄 **CV (Markdown)**  
@@ -36,20 +37,34 @@ I am also starting to learn test automation and have an interest in AI-related t
 
 ## Skills & Tools
 
-- Manual testing of web and mobile applications
-- Test cases, checklists, bug reporting
-- API testing (Postman)
-- Basic SQL
-- Tools: Jira, GitHub, DevTools, DBeaver
+### Testing
 
-(Full details are available in the CV.)
+- Manual testing of web and mobile applications
+- Functional, regression, exploratory, and smoke testing
+- Test case and checklist creation
+- Bug reporting with clear steps to reproduce
+- Requirements analysis
+- API testing with Postman
+- Basic database validation
+- Basic SQL
+
+### Tools
+
+- Jira
+- Postman
+- Swagger
+- GitHub / Git
+- DevTools
+- DBeaver
+- Figma
+- Playwright
+- TypeScript basics
 
 ## Courses
 
 Completed a Software Testing course and a Git/GitHub Fundamentals course.
 
-Currently learning **JavaScript for test automation** at RedRover School.  
-Planned next step: building automated tests using **Playwright**.
+Currently learning **JavaScript for test automation** at RedRover School and building automated tests using **Playwright**.
 
 ### Abra Market QA Project
 
