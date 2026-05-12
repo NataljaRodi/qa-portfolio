@@ -44,7 +44,10 @@ This is a team training repository, so I only share links to my own Pull Request
 | TC_01.001.31 | New Item > Create a new item | Validate duplicate item name | Created test case and automated UI test | [PR #338](https://github.com/RedRoverSchool/JenkinsQA_JS_2026_spring/pull/338) | Merged |
 | TC_01.002.16 | New Item > Folder | Create folder from Dashboard | Created test case and automated UI test | [PR #345](https://github.com/RedRoverSchool/JenkinsQA_JS_2026_spring/pull/345) | Merged |
 | TC_01.002.19 | New Item > Folder | Apply folder configuration changes | Created test case and automated UI test | [PR #382](https://github.com/RedRoverSchool/JenkinsQA_JS_2026_spring/pull/382) | Merged |
-| TC_02.003.07 | Freestyle Project > SCM Options | Verify SCM options are displayed | Created test case and automated UI tests| [PR #408](https://github.com/RedRoverSchool/JenkinsQA_JS_2026_spring/pull/408) | In review |
+| TC_02.003.07 | Freestyle Project > SCM Options | Verify SCM options are displayed | Created test case and automated UI tests| [PR #408](https://github.com/RedRoverSchool/JenkinsQA_JS_2026_spring/pull/408) | Merged |
+| TC_02.003.08 | Freestyle Project > SCM Options |Verify Git fields are displayed when Git is selected | Created test case and automated UI tests| [PR #508](https://github.com/RedRoverSchool/JenkinsQA_JS_2026_spring/pull/508) | Merged |
+
+
 
 ## Test Coverage Areas
 
